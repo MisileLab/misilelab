@@ -6,12 +6,12 @@ I'm Misile, just a discord bot programmer.
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misile)](https://github.com/anuraghazra/github-readme-stats)
 Opensource Sites
-- bitbucket(https://bitbucket.org/misilelab/)
-- gitlab(https://gitlab.com/misileminecord)
-- github gist : (https://gist.github.com/MisileLab)
+- [bitbucket](https://bitbucket.org/misilelab/)
+- [gitlab](https://gitlab.com/misileminecord)
+- [github gist](https://gist.github.com/MisileLab)
 
 My Channels
-- Youtube Channel : (https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos)
-- Twitch Channel : (https://www.twitch.tv/misile)
+- [Youtube Channel](https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos)
+- [Twitch Channel](https://www.twitch.tv/misile)
 
 > "Progress doesn't belong to one city." - Ekko
