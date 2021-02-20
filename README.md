@@ -1,17 +1,17 @@
-I'm Misile, And I made some minecraft project.
+I'm Misile, just a discord bot programmer.
 
-I usually using java, javascript, python, rust.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MisileLab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-bitbucket : https://bitbucket.org/misilelab/
-gitlab : https://gitlab.com/misileminecord
-kaggle : https://www.kaggle.com/misile
-github gist : https://gist.github.com/MisileLab
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisileLab&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-I have Youtube.
-And
-Twitch.
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misile)](https://github.com/anuraghazra/github-readme-stats)
+Opensource Sites
+- bitbucket(https://bitbucket.org/misilelab/)
+- gitlab(https://gitlab.com/misileminecord)
+- github gist : (https://gist.github.com/MisileLab)
 
-Youtube Channel : https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos
-Twitch Channel : https://www.twitch.tv/misile
+My Channels
+- Youtube Channel : (https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos)
+- Twitch Channel : (https://www.twitch.tv/misile)
 
 > "Progress doesn't belong to one city." - Ekko
