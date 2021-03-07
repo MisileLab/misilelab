@@ -1,6 +1,6 @@
 I'm Misile, just a discord bot programmer.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MisileLab&show_icons=true&&bg_color=#17bdeb)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MisileLab&show_icons=true&&bg_color=0x17bdeb)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisileLab&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
