@@ -1,4 +1,5 @@
-I'm Misile, just a discord bot programmer.
+# MisileLab
+I just a programmer.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MisileLab&show_icons=true&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -6,13 +7,25 @@ I'm Misile, just a discord bot programmer.
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misile&layout=compact&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
-Opensource Sites
-- [bitbucket](https://bitbucket.org/misilelab/)
-- [gitlab](https://gitlab.com/misileminecord)
-- [github gist](https://gist.github.com/MisileLab)
+My another open source profiles
+- [Bitbucket](https://bitbucket.org/misilelab/)
+- [Gitlab](https://gitlab.com/misileminecord)
+- [Github gist](https://gist.github.com/MisileLab)
 
-My Channels
+My channels
 - [Youtube Channel](https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos)
 - [Twitch Channel](https://www.twitch.tv/misile)
 
+## Programming Langs
+```mermaid
+sequenceDiagram
+Python -> Ruby: Ruby and Python are simple.
+C -> CDoublePlus: Similar Two Programming Lang
+CDoublePlus-> Rust: Similar Two Programming Lang
+```
+### Study Status
+```mermaid
+graph TD; Python-->Ready; C++-->Scheduled; C-->Scheduled; Rust-->Studying;
+Ruby-->Scheduled;
+```
 > "Progress doesn't belong to one city." - Ekko
