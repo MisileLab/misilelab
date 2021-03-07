@@ -22,11 +22,11 @@ My channels
 Python
 ### Studying
 Node.js</br>
-Rust
+Rust</br>
 Java
 ### Scheduled
-C++
-Ruby
+C++</br>
+Ruby</br>
 C#
 ### I will not study
 C
