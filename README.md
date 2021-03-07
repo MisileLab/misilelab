@@ -2,9 +2,9 @@ I'm Misile, just a discord bot programmer.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MisileLab&show_icons=true&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisileLab&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisileLab&langs_count=10&layout=compact&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misile&layout=compact&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
 Opensource Sites
 - [bitbucket](https://bitbucket.org/misilelab/)
