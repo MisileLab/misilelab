@@ -1,5 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
+
 # MisileLab
 I just a programmer.
 
@@ -18,16 +17,17 @@ My channels
 - [Youtube Channel](https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos)
 - [Twitch Channel](https://www.twitch.tv/misile)
 
-## Programming Langs
-```mermaid
-sequenceDiagram
-Python -> Ruby: Ruby and Python are simple.
-C -> CDoublePlus: Similar Two Programming Lang
-CDoublePlus-> Rust: Similar Two Programming Lang
-```
-### Study Status
-```mermaid
-graph TD; Python-->Ready; C++-->Scheduled; C-->Scheduled; Rust-->Studying;
-Ruby-->Scheduled;
-```
+## Study Status
+### Ready
+Python
+### Studying
+Node.js
+Rust
+Java
+### Scheduled
+C++
+Ruby
+C#
+### I will not study
+C
 > "Progress doesn't belong to one city." - Ekko
