@@ -21,7 +21,7 @@ My channels
 ### Ready
 Python
 ### Studying
-Node.js
+Node.js</br>
 Rust
 Java
 ### Scheduled
