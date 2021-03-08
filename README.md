@@ -18,16 +18,5 @@ My channels
 - [Twitch Channel](https://www.twitch.tv/misile)
 
 ## Study Status
-### Ready
-Python
-### Studying
-Node.js</br>
-Rust</br>
-Java
-### Scheduled
-C++</br>
-Ruby</br>
-C#
-### I will not study
-C
+- [x] Python
 > "Progress doesn't belong to one city." - Ekko
