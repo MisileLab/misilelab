@@ -18,5 +18,5 @@ My channels
 - [Twitch Channel](https://www.twitch.tv/misile)
 
 ## Study Status
-- [] Python
+- [ ] Python
 > "Progress doesn't belong to one city." - Ekko
