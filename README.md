@@ -13,9 +13,10 @@ My another open source profiles
 - [Gitlab](https://gitlab.com/misileminecord)
 - [Github gist](https://gist.github.com/MisileLab)
 
-My channels
+My community
 - [Youtube Channel](https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos)
 - [Twitch Channel](https://www.twitch.tv/misile)
+- [Gitter](https://gitter.im/MisileLaboratory/community)
 
 ## Study Status
 - [x] Python
