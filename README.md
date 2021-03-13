@@ -28,4 +28,5 @@ My community
 - [ ] Go
 - [ ] Java
 - [ ] Kotlin
+- [ ] Julia
 > "Progress doesn't belong to one city." - Ekko
