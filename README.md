@@ -24,4 +24,7 @@ My channels
 - [ ] Node.js
 - [ ] Rust
 - [ ] Ruby
+- [ ] Go
+- [ ] Java
+- [ ] Kotlin
 > "Progress doesn't belong to one city." - Ekko
