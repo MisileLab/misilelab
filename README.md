@@ -9,7 +9,7 @@ I just a programmer.
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misile&layout=compact&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My another open source profiles
-[![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/misileminecord)
+[![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/misilelab)
 
 ## My community
 [![Youtube](https://img.shields.io/badge/Misile%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCJpQZJtudbnTNjBayE832gg/videos)
