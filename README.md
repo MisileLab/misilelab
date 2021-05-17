@@ -21,7 +21,7 @@ I am just a programmer
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 ### I studying
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Julia](https://github.com/JuliaLang/julia/raw/master/doc/src/assets/logo.svg)](https://github.com/JuliaLang/julia)
+[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)   
+Julia
 
 > "Progress doesn't belong to one city." - Ekko
