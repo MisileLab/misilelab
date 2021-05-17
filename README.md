@@ -1,6 +1,6 @@
 
 # MisileLab
-I just a programmer
+I am just a programmer
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MisileLab&show_icons=true&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
