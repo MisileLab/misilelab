@@ -2,7 +2,6 @@
 # MisileLab
 I am just a programmer
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misile&layout=compact&bg_color=534d54)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My another open source profiles
 [![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/misilelab)
