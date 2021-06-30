@@ -18,6 +18,6 @@ I am just a programmer
 ### I studying
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-Julia
+[![Julia](https://camo.githubusercontent.com/4d1ba7680614dc34a94cc94bc2c923e2720895854f427974de18c5a1a274c3be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a756c69612d3935353842323f7374796c653d666f722d7468652d6261646765266c6f676f3d6a756c6961266c6f676f436f6c6f723d7768697465)](https://julialang.org/)
 
 > "Progress doesn't belong to one city." - Ekko
