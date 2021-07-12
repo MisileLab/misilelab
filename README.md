@@ -24,4 +24,4 @@ I am just a programmer
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/MisileLab)
 [![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://blockchair.com/bitcoin/address/bc1q4uwf8at8t0zw3pk75dw3nlzhcn0dcsw2udgpl6)
 
-> "Now I'm shaking, stirred, awaken, Taken this pain to realize a truth." - Cole Brew
+> "You have been through, All the things i've been through, You can be my muse, I'll write the songs for you." - Cole Brew
