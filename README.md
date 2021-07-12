@@ -20,4 +20,8 @@ I am just a programmer
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Julia](https://camo.githubusercontent.com/4d1ba7680614dc34a94cc94bc2c923e2720895854f427974de18c5a1a274c3be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a756c69612d3935353842323f7374796c653d666f722d7468652d6261646765266c6f676f3d6a756c6961266c6f676f436f6c6f723d7768697465)](https://julialang.org/)
 
-> "Progress doesn't belong to one city." - Ekko
+# I need money
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/MisileLab)
+[![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://blockchair.com/bitcoin/address/bc1q4uwf8at8t0zw3pk75dw3nlzhcn0dcsw2udgpl6)
+
+> "Now I'm shaking, stirred, awaken, Taken this pain to realize a truth." - Cole Brew
