@@ -2824,13 +2824,13 @@ I don't have idea, so please give idea to me.
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">FurLuck Bot</span>
-                                <div class="bar" style="width: 79.488%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">99%</span>
+                                <div class="bar" style="width: 78.288%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">98%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SimpleTimer</span>
-                                <div class="bar" style="width: 0.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 1.7120000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                         </div>
                     </section>
@@ -2839,13 +2839,13 @@ I don't have idea, so please give idea to me.
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">SQL</span>
-                                <div class="bar" style="width: 77.536%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">97%</span>
+                                <div class="bar" style="width: 71.72%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">90%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 2.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 8.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
@@ -2964,7 +2964,7 @@ I don't have idea, so please give idea to me.
                   Great developer
                   
                     <span class="gh">
-                      ranked 984k out of 74m users
+                      ranked 985k out of 74m users
                     </span>
                   
                 </div>
@@ -3456,7 +3456,7 @@ I don't have idea, so please give idea to me.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Fri, 23 Jul 2021 00:24:19 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Fri, 23 Jul 2021 01:33:05 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
