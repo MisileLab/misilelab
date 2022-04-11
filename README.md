@@ -17,7 +17,7 @@ impl misilemethods for misile {
   }
 }
 
-fun main() {
+fn main() {
   while true {
     let misile = misilestruct {
       site: "https://misilelaboratory.xyz",
