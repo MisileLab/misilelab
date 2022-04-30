@@ -1,5 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+me in a nutshell: When you make discord bot, I will make platform that improved than discord (and open source!).
 ```rs
 
 struct misilestruct {
