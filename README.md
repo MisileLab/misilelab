@@ -19,11 +19,11 @@ impl misilemethods for misile {
 }
 
 fn main() {
+   let misile = misilestruct {
+    site: "https://misilelaboratory.xyz",
+    feel: 255
+  };
   while true {
-    let misile = misilestruct {
-      site: "https://misilelaboratory.xyz",
-      feel: 255
-    };
     misile.handling_feel();
     sleepday();
   };
