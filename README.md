@@ -23,7 +23,7 @@ fn main() {
     site: "https://misilelaboratory.xyz",
     feel: 255
   };
-  while true {
+  loop {
     misile.handling_feel();
     sleepday();
   };
