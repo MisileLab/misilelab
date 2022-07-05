@@ -15,7 +15,7 @@ trait misilemethods {
   fn handling_feel(feel: u8) -> u8;
 }
 
-impl misilemethods for misile {
+impl misilemethods for misilestruct {
    fn handling_feel(&self) {
     return random(feel-50, feel+1);
   }
