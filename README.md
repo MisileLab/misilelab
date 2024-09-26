@@ -4,6 +4,4 @@
 </h3>
 <hr>
 
-My services
-- [main](https://misile.xyz)
-- [blog](https://blog.misile.xyz)
+[main site](https://misile.xyz)
