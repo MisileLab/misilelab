@@ -1,4 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmisilelab%2Fmisilelab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![wakapi all](https://img.shields.io/endpoint?url=https://wakapi.misile.xyz/api/compat/shields/v1/misile/interval:all_time&label=All%20time&color=blue)
+![wakapi 30 days](https://wakapi.misile.xyz/api/badge/misile/misile/interval:30_days?label=last%2030d)
+![wakapi week](https://wakapi.misile.xyz/api/badge/misile/interval:week?label=week)
+![wakapi today](https://wakapi.misile.xyz/api/badge/misile/interval:today?label=today)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <hr>
 <h3 align="center">
