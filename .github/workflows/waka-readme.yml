@@ -14,4 +14,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          API_BASE_URL: "https://wakapi.misile.xyz/api"
+          TIME_RANGE: "all_time"
+          LANG_COUNT: 9999
+          SHOW_TOTAL: true
+          BLOCKS: "->"
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_TOKEN }}
