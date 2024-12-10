@@ -6,16 +6,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 28 mins
+Total Time: 1 hrs 6 mins
 
-Svelte       0 hrs 9 mins    >>>>>>>>-----------------   31.50 %
-PowerShell   0 hrs 4 mins    >>>>---------------------   15.21 %
-Nix          0 hrs 4 mins    >>>>---------------------   15.03 %
-Python       0 hrs 4 mins    >>>>---------------------   14.12 %
-Emacs Lisp   0 hrs 3 mins    >>-----------------------   09.05 %
-Text         0 hrs 2 mins    >>-----------------------   07.24 %
-HTML         0 hrs 1 mins    >------------------------   04.53 %
-Bash         0 hrs 1 mins    >------------------------   03.32 %
+Python       0 hrs 25 mins   >>>>>>>>>----------------   37.64 %
+Nix          0 hrs 16 mins   >>>>>>-------------------   24.06 %
+Svelte       0 hrs 9 mins    >>>----------------------   13.22 %
+HTML         0 hrs 5 mins    >>-----------------------   07.80 %
+PowerShell   0 hrs 4 mins    >>-----------------------   06.38 %
+Emacs Lisp   0 hrs 3 mins    >------------------------   03.80 %
+Text         0 hrs 2 mins    >------------------------   03.04 %
+Bash         0 hrs 1 mins    -------------------------   01.65 %
+Astro        0 hrs 1 mins    -------------------------   01.39 %
+TOML         0 hrs 1 mins    -------------------------   01.01 %
 ```
 
 <!--END_SECTION:waka-->
