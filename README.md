@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 453 hrs 55 mins
+Total Time: 453 hrs 54 mins
 
 Python            163 hrs 43 mins >>>>>>>>>----------------   36.07 %
 Nix               89 hrs 40 mins  >>>>>--------------------   19.75 %
