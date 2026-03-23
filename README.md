@@ -1,1 +1,1 @@
-Do we need the attention?
+Everyone says crazy, then do it
